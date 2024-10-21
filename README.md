@@ -3,7 +3,7 @@ Welkom bij de (REST) API training! We gaan vandaag leren hoe je:
 1. Een API kan gebruiken/aanroepen
 2. Een API kan maken met behulp van Flask
 
-Voordat we beginnen is het belangrijk om een nieuwe environment aan te maken.
+Voordat we beginnen is het belangrijk om een nieuwe environment aan te maken. Open hiervoor het programma Anaconda Prompt op je computer. 
 ```bash
 conda create -n api-training python=3.12
 ```
