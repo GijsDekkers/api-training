@@ -1,0 +1,5 @@
+Flask
+jupyter
+pandas
+requests
+uuid
